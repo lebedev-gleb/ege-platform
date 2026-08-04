@@ -1,0 +1,18 @@
+# frontend (Next.js)
+ege-platform/node_modules
+ege-platform/.next
+ege-platform/out
+
+# backend (Go)
+ege-backend/*.exe
+ege-backend/ege-backend
+
+# секреты — в любой папке
+.env
+**/.env
+.env*
+**/.env*
+
+# системное
+.DS_Store
+*.pem
